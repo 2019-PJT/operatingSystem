@@ -1,9 +1,9 @@
 /*
-*   Operating System Lab
-*       Lab2 (Synchronization)
-*       Student name : Kwon boyoon Cho minseo
+*   Operating System
+*       Synchronization
+*       Student name : Kwon boyoon, Cho minseo
 *
-*   lab2_bst.c :
+*   bst.c :
 *       - thread-safe bst code.
 *       - coarse-grained, fine-grained lock code
 *
@@ -487,12 +487,4 @@ void lab2_node_delete(lab2_node *node) {
     // You need to implement lab2_node_delete function.
    node = NULL;
    free(node);
-A
-A
-A
-B
-B
 }
-ddd
-C
-i
