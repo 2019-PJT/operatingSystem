@@ -1,11 +1,10 @@
 /*
-*	DKU Operating System Lab
-*	    Lab1 (Scheduler Algorithm Simulator)
-*	    Student id : 32174224, 32157034
+*Operating System Lab
+*	    Lab (Scheduler Algorithm Simulator)
 *	    Student name : Cho min seo, Kwon bo yoon
 *
-*   lab1_sched.c :
-*       - Lab1 source file.
+*   lab_sched.c :
+*       - source file.
 *       - Must contains scueduler algorithm test code.
 *
 */
@@ -26,7 +25,7 @@
 #include <pthread.h>
 #include <asm/unistd.h>
 
-#include "lab1_sched_types.h"
+#include "sched_types.h"
 
 
 

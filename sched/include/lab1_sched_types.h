@@ -1,17 +1,17 @@
 /*
 *	DKU Operating System Lab
-*	    Lab1 (Scheduler Algorithm Simulator)
+
 *	    Student id : 32174224, 32157034
 *	    Student name : Cho min seo, Kwon bo yoon
 *
-*   lab1_sched_types.h :
-*       - lab1 header file.
+*   sched_types.h :
+*       -  header file.
 *       - must contains scueduler algorithm function's declations.
 *
 */
 
-#ifndef _LAB1_HEADER_H
-#define _LAB1_HEADER_H
+#ifndef __HEADER_H
+#define _LAB_HEADER_H
 
 
 /*
@@ -74,7 +74,7 @@ int Sum_Work_time(PCB * copy_process, int number);
 PCB * process;
 int number;
 
-#endif /* LAB1_HEADER_H*/
+#endif /* LAB_HEADER_H*/
 
 
 
