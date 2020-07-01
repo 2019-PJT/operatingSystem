@@ -1,8 +1,4 @@
 /*
-*	DKU Operating System Lab
-
-*	    Student id : 32174224, 32157034
-*	    Student name : Cho min seo, Kwon bo yoon
 *
 *   sched_types.h :
 *       -  header file.

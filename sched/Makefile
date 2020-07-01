@@ -4,11 +4,11 @@ CC = gcc
 INC = -I${CURDIR}/include/
 CFLAGS = -g $(INC)
 
-OBJS_LAB = lab_sched.o lab_sched_test.o 
+OBJS_LAB = sched.o sched_test.o 
 
 SRCS = $(OBJS_LAB:.o=.c)
 
-TARGET_LAB = lab_sched
+TARGET_LAB = sched
 
 .SUFFIXES : .c .o
 
